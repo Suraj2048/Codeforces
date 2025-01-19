@@ -1,2 +1,2 @@
 # Codeforces
-Codeforces Level 800
+Codeforces problem solutions
